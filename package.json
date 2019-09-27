@@ -1,9 +1,9 @@
 {
-  "name": "ts-next-boilerplate",
+  "name": "BuscaMinas",
   "version": "1.0.0",
   "description": "TypeScript Next Boilerplate",
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 3001",
     "build": "next build",
     "start": "next start",
     "test": "jest",
